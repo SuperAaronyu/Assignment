@@ -5,4 +5,4 @@ git commit -m '4'
 nano file4
 echo '444' > file4
 git stash
-git check main
+git checkout main
