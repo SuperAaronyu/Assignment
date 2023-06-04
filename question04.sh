@@ -1,1 +1,2 @@
-git commit am 'com'
+git add -A
+git commit -m 'com'
