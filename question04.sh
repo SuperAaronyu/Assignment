@@ -1,1 +1,1 @@
-git commit am 'com'
+git commit -am 'com'
